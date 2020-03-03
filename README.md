@@ -3,4 +3,6 @@ Use other algorithms to predict Big Mart Sale as follows: Lasso/Ridge Regression
 
 Author: Panuwat Ulis
 
-Compare performance other algorithm to linear regression by using train_bigmart_modified as data set
+Compare simple linear regression performance to other algorithm 
+
+Data Set: train_bigmart_modified.csv
